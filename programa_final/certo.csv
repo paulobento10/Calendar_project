@@ -1,0 +1,4 @@
+Subject,Start Date,Start Time,End Date,End Time,All Day,Description,Location,UID
+Flag 4,04/19/2012,6:00pm,04/19/2012,8:00pm,false,Longer Description,San Francisco CA,abcdefghij@google.com
+Flag 5,04/13/2012,0:00am,04/19/2012,12:00pm,true,Missing times are OK,New York NY,klmnopqrst@yahoo.com
+Flag 6,04/19/2012,6:50pm,04/20/2012,7:00pm,false,Start date and end date are different,Las Vegas NV,uvwxyz@outlook.com
